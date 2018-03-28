@@ -2,6 +2,9 @@
 <resources>
     <color name="primary">#F0BCB4</color>
     <color name="primaryDark">#8B5C7E</color>
+    <color name="colorPrimary">#8B5C7E</color>
+    <color name="colorPrimaryDark">#605D5D</color>
+    <color name="colorAccent">#F0BCB4</color>
     <color name="accent">#1565C0</color>
     <color name="step_pager_previous_tab_color">#605D5D</color>
     <color name="step_pager_selected_tab_color">#504E4F</color>
